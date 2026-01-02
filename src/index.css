@@ -18,3 +18,21 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../public/fonts/Montserrat-Regular.eot') format("eot"),
+    url('../public/fonts/Montserrat-Regular.woff2') format("woff2"),
+    url('../public/fonts/Montserrat-Regular.ttf') format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../public/fonts/Montserrat-SemiBold.eot') format("eot"),
+    url('../public/fonts/Montserrat-SemiBold.woff2') format("woff2"),
+    url('../public/fonts/Montserrat-SemiBold.ttf') format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}

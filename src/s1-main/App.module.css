@@ -7,6 +7,9 @@
     border-top: 1px solid #D9D9D9;
     border-bottom: 1px solid #D9D9D9;
     padding: 24px 0 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
 }
 
 .hwTitle {

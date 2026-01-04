@@ -1,6 +1,5 @@
 .message {
-    display: flex;
-    flex-direction: column;
+
 }
 
 .imageAndText {
@@ -14,9 +13,11 @@
 }
 
 .text {
+    position: relative;
     box-shadow: 0 1px 2px 0 rgba(29, 33, 38, 0.1), 0 5px 20px 0 rgba(29, 33, 38, 0.03);
-    background-color: #06c;
-    border-radius: 10px;
+    max-width: 527px;
+    background-color: #0066CC;
+    border-radius: 10px 10px 0 10px;
     display: flex;
     flex-direction: column;
     padding: 4px 24px 8px 12px;
@@ -24,6 +25,9 @@
 }
 
 .text:after {
+    content: "▶";
+    position: relative;
+    right: 10px;
 
 }
 
@@ -40,6 +44,8 @@
     font-weight: 400;
     font-size: 16px;
     color: #fff;
+    white-space: pre-line;
+    word-break: break-word;
 }
 
 .time {

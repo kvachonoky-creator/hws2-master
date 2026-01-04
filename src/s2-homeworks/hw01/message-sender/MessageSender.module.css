@@ -18,6 +18,7 @@
     font-weight: 400;
     font-size: 16px;
     color: #000;
+    overflow: hidden;
 }
 
 .textarea::placeholder {

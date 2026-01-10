@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hws2-master/static/css/main.320058d7.css",
-    "main.js": "/hws2-master/static/js/main.1e7a52f3.js",
+    "main.css": "/hws2-master/static/css/main.cc765fc6.css",
+    "main.js": "/hws2-master/static/js/main.6484d364.js",
     "static/js/787.66cb4309.chunk.js": "/hws2-master/static/js/787.66cb4309.chunk.js",
     "static/media/Montserrat-SemiBold.ttf": "/hws2-master/static/media/Montserrat-SemiBold.bc6251227a1673656a57.ttf",
     "static/media/Montserrat-Regular.ttf": "/hws2-master/static/media/Montserrat-Regular.b2667c142af0523f081c.ttf",
@@ -12,12 +12,12 @@
     "static/media/avatar.png": "/hws2-master/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/friend_back_mess.svg": "/hws2-master/static/media/friend_back_mess.cf87ed966e207e58c828.svg",
     "index.html": "/hws2-master/index.html",
-    "main.320058d7.css.map": "/hws2-master/static/css/main.320058d7.css.map",
-    "main.1e7a52f3.js.map": "/hws2-master/static/js/main.1e7a52f3.js.map",
+    "main.cc765fc6.css.map": "/hws2-master/static/css/main.cc765fc6.css.map",
+    "main.6484d364.js.map": "/hws2-master/static/js/main.6484d364.js.map",
     "787.66cb4309.chunk.js.map": "/hws2-master/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.320058d7.css",
-    "static/js/main.1e7a52f3.js"
+    "static/css/main.cc765fc6.css",
+    "static/js/main.6484d364.js"
   ]
 }

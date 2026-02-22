@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hws2-master/static/css/main.7a892c8b.css",
-    "main.js": "/hws2-master/static/js/main.b0a02067.js",
+    "main.js": "/hws2-master/static/js/main.c9c204f1.js",
     "static/js/787.66cb4309.chunk.js": "/hws2-master/static/js/787.66cb4309.chunk.js",
     "static/media/Montserrat-SemiBold.ttf": "/hws2-master/static/media/Montserrat-SemiBold.bc6251227a1673656a57.ttf",
     "static/media/Montserrat-Regular.ttf": "/hws2-master/static/media/Montserrat-Regular.b2667c142af0523f081c.ttf",
@@ -19,11 +19,11 @@
     "index.html": "/hws2-master/index.html",
     "static/media/burger.svg": "/hws2-master/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.7a892c8b.css.map": "/hws2-master/static/css/main.7a892c8b.css.map",
-    "main.b0a02067.js.map": "/hws2-master/static/js/main.b0a02067.js.map",
+    "main.c9c204f1.js.map": "/hws2-master/static/js/main.c9c204f1.js.map",
     "787.66cb4309.chunk.js.map": "/hws2-master/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a892c8b.css",
-    "static/js/main.b0a02067.js"
+    "static/js/main.c9c204f1.js"
   ]
 }
